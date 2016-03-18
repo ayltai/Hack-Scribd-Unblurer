@@ -20,6 +20,7 @@ setInterval(function() {
     $('.autogen_class_views_read2_page_blur_promo').remove();
     $('.outer_page only_ie6_border blurred_page').remove();
     $('.page-blur-promo').removeClass('page-blur-promo');
+     $('.page_blur_promo').remove();
     $('.absimg').css('opacity', '1.0');
     $('.text_layer').css('color', '#000');
     $('.text_layer').css('text-shadow', '0px 0px 0px #000');
