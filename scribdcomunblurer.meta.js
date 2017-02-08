@@ -5,7 +5,7 @@
 // @version        1.0
 // @author         Alan Tai
 // @description    Unblur Scribd.com document pages
-// @include        http://www.scribd.com/doc/*
+// @include        http*://*.scribd.com/*
 // @run-at         document-end
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @homepageURL    https://github.com/ayltai/Hack-Scribd-Unblurer
