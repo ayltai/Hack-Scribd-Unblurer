@@ -24,4 +24,5 @@ setInterval(function() {
     $('.absimg').css('opacity', '1.0');
     $('.text_layer').css('color', '#000');
     $('.text_layer').css('text-shadow', '0px 0px 0px #000');
+    $('.autogen_class_views_pdfs_page_blur_promo').css('display','none');
 }, 1000);
